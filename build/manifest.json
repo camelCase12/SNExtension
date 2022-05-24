@@ -1,0 +1,14 @@
+{
+  "name": "ServiceNow FastTrack",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Reduces redundant actions in ServiceNow with web-based macros",
+  "icons": {
+  "512": "logo512.png"
+  },
+  "permissions": ["activeTab"],
+  "browser_action": {
+  "default_icon": "logo512.png",
+  "default_popup": "popup.html"
+  }
+}
